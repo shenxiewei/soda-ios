@@ -1,0 +1,344 @@
+/*
+ Localizable.strings
+ JoyMove
+ 
+ Created by 赵霆 on 16/6/20.
+ Copyright © 2016年 xin.liu. All rights reserved.
+ */
+
+// 侧滑
+"Help" = "幫助";
+"Coupons, points, invoice"  = "優惠劵、積分、發票";
+"Trips" = "我的行程";
+"Wallet" = "我的錢包";
+"Recent Events" = "最新活動";
+"My Car" = "我的車輛";
+"用车排行" = "用車排行";
+"Gift for invitation" = "邀請有禮";
+"Settings" = "設置";
+"Unauthorized Credit card"  = "未認證信用卡";
+"Unauthorized Driving license" = "駕照審核未通過";
+// 个人页
+"logout" = "退出登錄";
+"license authentication" = "駕照認證";
+"Personal Information" = "個人信息";
+"Unauthorized" = "未認證";
+"Authenticated" = "已認證";
+"Authenticating" = "認證中";
+"Authentication failed" = "認證失敗";
+"Do you really want to logout" = "是否退出";
+"Cancel" = "取消";
+"Logout" = "退出賬號";
+"Upload failed" = "上傳失敗";
+"No internet connection available" = "網絡連接異常";
+"OK" = "我知道了";
+"Can not Quit" = "不能退出";
+"Your order has not been paid" = "你的訂單尚未支付";
+"Yes" = "好";
+// 个人信息
+"Save" = "保存";
+"Mr." = "男";
+"Mrs." = "女";
+"Reset password" = "修改密碼";
+"Nickname" = "昵稱";
+"New password available" = "修改成功";
+// 驾照页
+"Name" = "姓名";
+"Please enter your real name" = "請輸入您的真實姓名";
+"license number" = "駕駛證號";
+"Please enter your real name" = "輸入駕駛證號";
+"Expiry date" = "有效期";
+"Please enter the expiry date of your driving license" = "輸入駕駛證到期時間" ;
+"(Please take your own picture for comparison and auditing license information)" = "(請務必拍攝本人照片，用于比對和審核駕照信息)";
+"Please upload your driving license. Your age shall be at least 20 years old. Your driving license valided for more than one month before rent(Users not in mainland of China reqested for more than two months)" = "請上傳您本人的駕駛證，且您年滿20周歲，駕駛證有效期超過當次租用日期一個月以上（非大陸用戶兩個月以上）";
+"Submit" = "提交審核";
+"View the photo" = "查看大圖";
+"Retake" = "重拍";
+"Please enter your real name" = "請輸入您的真實姓名";
+"Please enter your license number" = "請輸入駕駛證號";
+"Please enter the expiry date of your driving license"  = "請輸入駕照有效期限";
+"Please take the main sheet of your driving license" = "請上傳駕駛證主頁" ;
+"Please take the second sheet of your driving license" = "請上傳駕駛證副頁";
+"Please upload your photos" = "請上傳本人照片";
+"You did not agree the policy for user authentication of soda" = "你未同意soda對用戶的審核標准";
+"Are you sure to submit? The information can not be changed after submitting for certification" = "信息認證提交後不可更改，您是否確認提交？";
+"Yes" = "確定";
+"Submit Success" = "提交成功";
+"Please pay attention. Soda will finish the process of validation in 1 hour" = "Soda蘇打將在工作時間1小時內進行審核，請您關注審核結果哦！";
+// 我的行程
+"Loading..." = "載入中...";
+"My Trips" = "我的行程";
+"No more information" = "暫無更多記錄";
+"yyyy/M/d" = "yyyy年M月d日";
+"Km"  = "公裏";
+"Drived" = "用時";
+"Drived 1 min" = "用時1分鍾";
+// 我的钱包
+"Balance" = "我的余額";
+"Coupon" = "優惠券";
+"Points" = "積分";
+"Invoice" = "發票";
+"Deposit" = "押金";
+// 优惠券
+"To" = "至";
+"Terms" = "使用規則";
+"Add coupons" = "手動添加優惠券";
+"Please enter coupons NO." = "請輸入兌換碼";
+"Available coupon" = "可用優惠券";
+"Coupon Policy" = "優惠券規則";
+"Exchanging" = "兌換中";
+"Exchange Success" = "兌換成功";
+// 积分
+"Exchange" = "兌換";
+"Points policy" = "積分規則";
+"My Points" = "我的積分";
+// 积分商城
+"Points Mall" = "積分商城";
+"You currently have"  = "您當前有";
+"Are you sure to exchange this?" = "確定兌換此商品嗎？";
+"Exchange Success" = "兌換成功";
+"Exchange Failed" = "兌換失敗";
+"元优惠劵" = "元優惠劵";
+"Exchange Now" = "立即兌換";
+
+//押金
+"Refund" = "退款";
+"Recharge" = "充值";
+
+// 发票
+"起开发票" = "起開發票";
+"Next" = "下一步";
+"Total：" = "合計：";
+"Invoice records" = "開票曆史";
+"less than the minimum amount for invoice" = "低于最低開票金額";
+"Higher than the maximum amount for invoice"  = "高于最高開票金額";
+"Actual payment" = "實際支付";
+"yyyy/MM/dd HH:mm" = "yyyy年MM月dd日 HH:mm";
+// 活动
+"Recent Events" = "最新活動";
+// 排行榜
+"Ranking list" = "用車排行榜";
+"Today" = "今日";
+"This week" = "本周";
+"Read more" = "查看更多";
+"No trips" = "還未産生行程";
+// 邀请有礼
+"Share the invitation code with your friends!" = "分享給好友，TA在注冊時填入你的邀請碼";
+"You and your friends will get 30 RMB coupon after entering the invitation code and registration success." = "注冊認證成功，你和好友均可獲得30元組合優惠券";
+"Your invitation code is" = "你的邀請碼爲";
+"Share invitation code" = "分享邀請碼";
+// 设置
+"How to use" = "如何使用";
+"Frequently Asked Questions" = "常見問題";
+"User Agreement" = "用戶協議";
+"Platform Policy" = "平台規則";
+"Pice Policy" = "計費說明";
+"Legal information" = "法律解讀";
+"Peccancy processing" = "違章處理";
+"Customer service（Contact us)" = "客服電話";
+"Welcome Page" = "歡迎頁";
+"About Us" = "關于我們";
+// 附近的车
+"Near" = "附近";
+"Vehicles" = "全部";
+"No more" = "没有更多了";
+// 车辆详情
+"Rent" = "用車";
+"Walk" = "步行";
+"Go" = "前往";
+"Can not get to your location" = "不能獲取到你的位置";
+"距离" = "距離";
+"Renting a car" = "正在租用這輛車";
+"Charging rules" = "計費規則";
+// 登录
+"Login" = "登錄";
+"Please enter your phone number" = "請輸入手機號";
+"Please enter your password" = "請輸入密碼";
+"Forgot password?" = "忘記密碼?";
+"Register" = "注冊";
+"Signing" = "正在登錄";
+// 注册
+"Verify" = "驗證";
+"To ensure the authenticity of the information please verify the phone." = "爲保證資料的真實性，請驗證手機。";
+"Phone number" = "手機號";
+"Verification code" = "驗證碼";
+"Please enter your password (6 to 12)" = "請輸入密碼(6~12位)";
+"Please enter your password again" = "請再次輸入密碼";
+"Please enter an invitation code (optional)" = "請輸入邀請碼(可選)";
+"Click to register and that means you agree with this agreement" = "點擊注冊，即表示你同意。";
+"《User Agreement》" = "《用戶協議》";
+"Registered" = "此號已注冊";
+"No internet connection available" = "網絡異常";
+"Sent" = "已發送";
+"Entered passwords differ" = "兩次密碼不一致";
+// 一键租车失败&换车失败 view
+"This region is not availabe for return the vehicle" = "此區域無法還車";
+"Sorry" = "抱歉";
+"Do not worry, Please check our soda stations" = "別急，您可以看看其他網點";
+"Nearby Soda Station" = "附近還車網點";
+"Nearby vehicle" = "附近車輛";
+"Unfortunately" = "很遺憾";
+"No available vehicle around 1 km" = "您附近一公裏無可用車輛";
+"urge a station establishment" = "催我建站";
+"Show all stations" = "顯示全部網點";
+"OK" = "知道了";
+"End the trip" = "還車";
+// 操作车辆工具栏
+"Unlock" = "開鎖";
+"Lock" = "鎖門";
+"Return" = "還車";
+"More" = "更多";
+"Rescue number" = "撥打救援電話";
+"Flashing prompt" = "閃燈提示";
+"Show nearby charging stations"  = "顯示附近的充電站";
+"Show nearby parking lots" = "顯示附近的停車場";
+// viewController
+"Add Destination" = "添加目的地";
+"Description" = "使用說明";
+"Location Services is not enabled" = "定位服務未開啓";
+"If you turn off the location you cannot rent a vehicle" = "如果關閉定位，您將無法租用車輛";
+"Urged success!" = "催促成功!";
+"Please upgrade immediately. Your version is too low" = "您的版本過低，已無法繼續使用。請立即升級。";
+"Upgrade" = "升級";
+"Connecting..." = "連接中...";
+"Please wait" = "請稍候";
+"Please upgrade immediately. Your version is too low" = "您的版本過低，已無法繼續使用。請立即升級。";
+"Update" = "更新";
+"Lock…" = "正在鎖門";
+"Door locked" = "車門已鎖";
+"No internet connection available. Please use bluetooth" = "網絡異常，建議使用藍牙連接";
+"Use Bluetooth" = "使用藍牙";
+"Unlock..." = "正在開鎖";
+"Door Opened" = "車門已開";
+"Requesting whistle" = "正在請求鳴笛";
+"Whistling" = "正在鳴笛";
+"Requesting flash" = "正在請求閃燈";
+"Flashing" = "正在閃燈";
+"Applying to rent the vehicle"  = "正在申請租車";
+"Applying to end the trip" = "正在申請還車";
+"Checking order status, please wait" = "正在檢查訂單狀態，請稍候";
+"Map loading failed" = "地圖加載失敗";
+"Touch OK to reload" = "輕觸‘好’重新加載";
+"Reparing, please wait" = "准備中，請稍候";
+"Voice guidance is On" = "語音導航已開啓";
+"Voice Navigation closed" = "語音導航已關閉";
+"authorization code exception" = "授權碼異常";
+"Please try again later" = "沒有響應,請稍後重試";
+"Whistle" = "鳴笛";
+"Flash" = "閃燈";
+"Destinations：" = "目的地：";
+// 目的地
+"Destinations" = "目的地";
+"Will you discard the changes？" = "是否放棄修改？";
+"give up" = "放棄";
+"Done" = "完成";
+"List" = "排序";
+"Recommended route" = "推薦路線";
+"Not added destination" = "尚未添加目的地";
+"Departure" = "出發";
+"Please add the destination" = "請添加目的地";
+"Search" = "搜索";
+"Enter keyword" = "輸入地址的關鍵字即可。";
+"Common address" = "常用地址";
+"Search Results" = "搜索結果";
+"History" = "曆史記錄";
+"Home" = "家";
+"Home" = "公司";
+"Clear All History" = "清除全部曆史記錄";
+"recommended route Loading..." = "推薦路線加載中...";
+// 支付
+"payment has not been completed" = "支付尚未完成";
+"Please try later" = "請稍候重試";
+"payment details" = "支付明細";
+"Order Error" = "訂單出錯啦";
+"No order" = "無訂單";
+"Under rental" = "租用中";
+"NOTE：" = "備注：";
+"mileage fee" = "距離費用";
+"time fee" = "時間費用";
+"Daily rental" = "日租";
+"Night rental" = "夜租";
+"Additional fee" = "附加費用";
+"Order verifying" = "正在校驗訂單";
+"Miles" = "裏程";
+"Time" = "計時";
+"No available coupon" = "沒有可用的優惠劵";
+"Alipay" = "支付寶";
+"WeChat Payment" = "微信支付";
+"Total" = "合計";
+"Payment" = "支付";
+"Actual payment：" = "實付款：";
+// button图片
+"Activate" = "激活";
+"Please take the second sheet of your driving license" = "拍攝駕駛證副頁";
+"Please take the main sheet of your driving license" = "拍攝駕駛證正頁";
+"Please take your own picture" = "拍攝本人手持身份證照片";
+// webView
+"Share" = "分享";
+"Agree" = "同意";
+"h" = "小時";
+"min" = "分鍾";
+"始" = "始";
+"終" = "終";
+"show all" = "顯示全部";
+"show some" = "顯示部分";
+// 重设密码
+"reset password" = "重設密碼";
+"old password" = "舊密碼";
+"please enter your old password" = "請輸入舊密碼";
+"you will get  a massage after entering your phone number。"  = "輸入注冊時填寫的手機號，我們會爲你發送一條驗證碼短信，請注意查收。";
+"new password" = "新密碼";
+"confirm the new password" = "確認密碼";
+"please enter verification code" = "請輸入驗證碼";
+"reset password success" = "密碼已重置";
+"password is not consistent for twice input" = "兩次密碼輸入有誤";
+// 发票地址页
+"issue invoice" = "開具發票";
+"submit" = "提交";
+"the title of invoice" = "發票擡頭";
+"the title of invoice tax no" = "稅號";
+"please enter the complete company name or your real name" = "請輸入公司全稱或個人真實姓名";
+"name of addressee" = "收件人姓名";
+"phone number of addressee" = "收件人手機";
+"locate area" = "所在地區";
+"detail address information" = "詳細地址";
+"enter detail address information" = "填寫詳細地址";
+"Beijing  Beijing  Chaoyang District" = "北京市  北京市  朝陽區";
+"Beijing" = "北京市";
+"Chaoyang District" = "朝陽區";
+"please enter the title of invoice" = "請填寫發票擡頭";
+"please enter the name of addressee" = "請填寫收件人姓名";
+"please enter the phone number of addressee" = "請填寫收件人手機";
+"select location" = "請選擇所在地區";
+"no internet connection available" = "網絡連接失敗";
+"please select at least one invoice" = "請至少選擇一張發票";
+// 评价页
+"Appraise" = "評價";
+"Overall" = "總體";
+"your suggest" = "評論（可不填）";
+"Appraise success" = "評價成功";
+
+"Drived" = "行駛";
+"Rented" = "已租用";
+"minimum amount for invoice" = "最低開票金額";
+// url
+"joymove/htm/yongHuXieYi.html" = "joymove/htm/tw/yongHuXieYi.html";
+"joymove/htm/changJianWenTi.html" = "joymove/htm/tw/changJianWenTi.html";
+"joymove/htm/faLvJieDu.html" = "joymove/htm/tw/faLvJieDu.html";
+"joymove/htm/Pricing.html" = "joymove/htm/tw/Pricing.html" ;
+"joymove/htm/jiFenShuoMing.html" = "joymove/htm/tw/jiFenShuoMing.html";
+"joymove/htm/pingTaiGuiZe.html" = "joymove/htm/tw/pingTaiGuiZe.html";
+"joymove/htm/weiZhangChuLi.html" = "joymove/htm/tw/weiZhangChuLi.html";
+// 增加
+"Agree to enjoy the journey!" = "同意並開始用車";
+// 微信登陆
+"验证码" = "驗證碼";
+"绑定手机号" = "綁定手機號";
+"请输入手机号" = "請輸入手機號";
+"请输验证码" = "請輸驗證碼";
+"绑定" = "綁定";
+"微信登录" = "微信登錄";
+"加载失败..." = "加載失敗...";
+"验证码已发送..." = "驗證碼已發送...";
+"绑定失败..." = "綁定失敗...";
+"绑定成功" = "綁定成功";

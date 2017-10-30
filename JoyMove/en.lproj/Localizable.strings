@@ -1,0 +1,360 @@
+/*
+ Localizable.strings
+ JoyMove
+ 
+ Created by 赵霆 on 16/6/20.
+ Copyright © 2016年 xin.liu. All rights reserved.
+ */
+
+// 侧滑
+"Help" = "Help";
+"Coupons, points, invoice" = "Coupons, points, invoice";
+"Trips" = "Trips";
+"Wallet" = "Wallet";
+"My Car" = "My Car";
+"Recent Events" = "Recent Events";
+"Vehicles list" = "Vehicles list";
+"Gift for invitation" = "Gift for invitation";
+"Settings" = "Settings";
+"Unauthorized Credit card" = "Unauthorized Credit card";
+"Unauthorized Driving license" = "Unauthorized Driving license";
+// 个人页
+"logout" = "logout";
+"license authentication" = "license authentication";
+"Personal Information" = "Personal Information";
+"Unauthorized" = "Unauthorized";
+"Authenticated" = "Authenticated";
+"Authenticating" = "Authenticating";
+"Authentication failed" = "Authentication failed";
+"Do you really want to logout" = "Do you really want to logout";
+"Logout" = "Logout";
+"Upload failed" = "Upload failed";
+"No internet connection available" = "No internet connection available";
+"OK" = "OK";
+"Can not Quit" = "Can not Quit";
+"Your order has not been paid" = "Your order has not been paid";
+"Yes" = "Yes";
+// 个人信息
+"Personal Information" = "Personal Information";
+"Save" = "Save";
+"Mr." = "Mr.";
+"Mrs." = "Mrs.";
+"Reset password" = "Reset password";
+"Nickname" = "Nickname";
+"New password available" = "New password available";
+// 驾照页
+"Name" = "Name";
+"Please enter your real name" = "Please enter your real name";
+"license number" = "license number";
+"Please enter the license number" = "Please enter the license number";
+"Expiry date" = "Expiry date";
+"Please enter the expiry date of your driving license" = "Please enter the expiry date of your driving license";
+"(Please take your own picture for comparison and auditing license information)" = "(Please take your own picture for comparison and auditing license information)";
+"Please upload your driving license. Your age shall be at least 20 years old. Your driving license valided for more than one month before rent(Users not in mainland of China reqested for more than two months)" = "Please upload your driving license. Your age shall be at least 20 years old. Your driving license valided for more than one month before rent(Users not in mainland of China reqested for more than two months)";
+"Submit" = "Submit";
+"View the photo" = "View the photo";
+"Retake" = "Retake";
+"Please enter your real name" = "Please enter your real name";
+"Please enter your license number" = "Please enter your license number";
+"Please enter the expiry date of your driving license" = "Please enter the expiry date of your driving license";
+"Please take the main sheet of your driving license" = "Please take the main sheet of your driving license" ;
+"Please take the second sheet of your driving license" = "Please take the second sheet of your driving license";
+"Please upload your photos" = "Please upload your photos";
+"You did not agree the policy for user authentication of soda" = "You did not agree the policy for user authentication of soda";
+"Are you sure to submit? The information can not be changed after submitting for certification" = "Are you sure to submit? The information can not be changed after submitting for certification";
+"Yes" = "Yes";
+"Submit Success" = "Submit Success";
+"Please pay attention. Soda will finish the process of validation in 1 hour" = "Please pay attention. Soda will finish the process of validation in 1 hour";
+// 我的行程
+"Loading..." = "Loading...";
+"My Trips" = "My Trips";
+"No more information" = "No more information";
+"yyyy/M/d" = "yyyy/M/d";
+"Km" = "Km";
+"Drived" = "Drived";
+"Drived 1 min" = "Drived 1 min";
+// 我的钱包
+"My wallet" = "My wallet";
+"Coupon" = "Coupon";
+"Points" = "Points";
+"Invoice" = "Invoice";
+"Deposit" = "Deposit";
+// 优惠券
+"To" = "To";
+"Terms" = "Terms";
+"Add coupons" = "Add coupons";
+"Please enter coupons NO." = "Please enter coupons NO.";
+"Available coupon" = "Available coupon";
+"Coupon Policy" = "Coupon Policy";
+"Exchanging" = "Exchanging";
+"Exchange Success" = "Exchange Success";
+// 积分
+"Exchange" = "Exchange";
+"Points policy" = "Points policy";
+"My Points" = "My Points";
+// 积分商城
+"Points Mall" = "Points Mall";
+"You currently have" = "You currently have";
+"Are you sure to exchange this?" = "Are you sure to exchange this?";
+"Exchange Success" = "Exchange Success";
+"Exchange Failed" = "Exchange Failed";
+"元优惠劵" = "元优惠劵";
+"Exchange Now" = "Exchange Now";
+
+//押金
+"Refund" = "Refund";
+"Recharge" = "Recharge";
+
+// 发票
+"起开发票" = "起开发票";
+"Next" = "Next";
+"Total：" = "Total：";
+"Invoice records" = "Invoice records";
+"less than the minimum amount for invoice" = "less than the minimum amount for invoice";
+"Higher than the maximum amount for invoice" = "Higher than the maximum amount for invoice";
+"Actual payment" = "Actual payment";
+"yyyy/MM/dd HH:mm" = "yyyy/MM/dd HH:mm";
+// 活动
+"Recent Events" = "Recent Events";
+// 排行榜
+"Ranking list" = "Ranking list";
+"Today" = "Today";
+"This week" = "This week";
+"Read more" = "Read more";
+"No trips" = "No trips";
+// 邀请有礼
+"Share the invitation code with your friends!" = "Share the invitation code with your friends!";
+"You and your friends will get 30 RMB coupon after entering the invitation code and registration success." = "You and your friends will get 30 RMB coupon after entering the invitation code and registration success.";
+"Your invitation code is" = "Your invitation code is";
+"Share invitation code" = "Share invitation code";
+// 设置
+"How to use" = "How to use";
+"Frequently Asked Questions" = "Frequently Asked Questions";
+"User Agreement" = "User Agreement";
+"Platform Policy" = "Platform Policy";
+"Pice Policy" = "Pice Policy";
+"Points Policy" = "Points Policy";
+"Legal information" = "Legal information";
+"Peccancy processing" = "Peccancy processing";
+"Customer service（Contact us)" = "Customer service（Contact us)";
+"Welcome Page" = "Welcome Page";
+"About Us" = "About Us";
+// 附近的车
+"Near" = "Near";
+"Vehicles" = "Vehicles";
+"No more" = "No more";
+// 车辆详情
+"Rent" = "Rent";
+"Walk" = "Walk";
+"Go" = "Go";
+"Can not get to your location" = "Can not get to your location";
+"距离" = "Distance";
+"Renting a car" = "Renting a car";
+"Charging rules" = "Charging rules";
+// 登录
+"Login" = "Login";
+"Please enter your phone number" = "Please enter your phone number";
+"Please enter your password" = "Please enter your password";
+"Forgot password?" = "Forgot password?";
+"Register" = "Register";
+"Please enter your phone number" = "Please enter your phone number";
+"Please enter your password" = "Please enter your password";
+"Signing" = "Signing";
+// 注册
+"Register" = "Register";
+"Verify" = "Verify";
+"To ensure the authenticity of the information please verify the phone." = "To ensure the authenticity of the information please verify the phone.";
+"Phone number" = "Phone number";
+"Verification code" = "Verification code";
+"Please enter your password (6 to 12)" = "Please enter your password (6 to 12)";
+"Please enter your password again" = "Please enter your password again";
+"Please enter an invitation code (optional)" = "Please enter an invitation code (optional)";
+"Click to register and that means you agree with this agreement" = "Click to register and that means you agree with this agreement";
+"《User Agreement》" = "《User Agreement》";
+"User Agreement" = "User Agreement";
+"Registered" = "Registered";
+"No internet connection available" = "No internet connection available";
+"Sent" = "Sent";
+"Entered passwords differ" = "Entered passwords differ";
+// 一键租车失败&换车失败 view
+"This region is not availabe for return the vehicle" = "This region is not availabe for return the vehicle";
+"Sorry" = "Sorry";
+"Do not worry, Please check our soda stations" = "Do not worry, Please check our soda stations";
+"Nearby Soda Station" = "Nearby Soda Station";
+"Nearby vehicle" = "Nearby vehicle";
+"Unfortunately" = "Unfortunately";
+"No available vehicle around 1 km" = "No available vehicle around 1 km";
+"urge a station establishment" = "urge a station establishment";
+"Show all stations" = "Show all stations";
+"OK" = "OK";
+"give up" = "give up";
+"End the trip" = "End the trip";
+// 操作车辆工具栏
+"Unlock" = "Unlock";
+"Lock" = "Lock";
+"Return" = "Return";
+"More" = "More";
+"Rescue number" = "Rescue number";
+"Flashing prompt" = "Flashing prompt";
+"Show nearby charging stations" = "Show nearby charging stations";
+"Show nearby parking lots" = "Show nearby parking lots";
+// viewController
+"Add Destination" = "Add Destination";
+"Description" = "Description";
+"Location Services is not enabled" = "Location Services is not enabled";
+"If you turn off the location you cannot rent a vehicle" = "If you turn off the location you cannot rent a vehicle";
+"Urged success!" = "Urged success!";
+"Please upgrade immediately. Your version is too low" = "Please upgrade immediately. Your version is too low";
+"Upgrade" = "Upgrade";
+"Connecting..." = "Connecting...";
+"Please wait" = "Please wait";
+"Please upgrade immediately. Your version is too low" = "Please upgrade immediately. Your version is too low";
+"Update" = "Update";
+"Lock…" = "Lock…";
+"Door locked" = "Door locked";
+"No internet connection available. Please use bluetooth" = "No internet connection available. Please use bluetooth";
+"Use Bluetooth" = "Use Bluetooth";
+"Unlock..." = "Unlock...";
+"Door Opened" = "Door Opened";
+"Requesting whistle" = "Requesting whistle";
+"Whistling" = "Whistling";
+"Requesting flash" = "Requesting flash";
+"Flashing" = "Flashing";
+"Applying to rent the vehicle" = "Applying to rent the vehicle";
+"Applying to end the trip" = "Applying to end the trip";
+"Checking order status, please wait" = "Checking order status, please wait";
+"Map loading failed" = "Map loading failed";
+"Touch OK to reload" = "Touch OK to reload";
+"Reparing, please wait" = "Reparing, please wait";
+"Voice guidance is On" = "Voice guidance is On";
+"Voice Navigation closed" = "Voice Navigation closed";
+"authorization code exception" = "authorization code exception";
+"Please try again later" = "Please try again later";
+"Whistle" = "Whistle";
+"Flash" = "Flash";
+"Destinations：" = "Destinations：";
+// 目的地
+"Destinations" = "Destinations";
+"Will you discard the changes？" = "Will you discard the changes？";
+"Cancel" = "Cancel";
+"Done" = "Done";
+"List" = "List";
+"Recommended route" = "Recommended route";
+"Not added destination" = "Not added destination";
+"Departure" = "Departure";
+"Please add the destination" = "Please add the destination";
+"Search" = "Search";
+"Enter keyword" = "Enter keyword";
+"Common address" = "Common address";
+"Search Results" = "Search Results";
+"History" = "History";
+"Home" = "Home";
+"Company" = "Company";
+"Clear All History" = "Clear All History";
+"Recommended route" = "Recommended route";
+"recommended route Loading..." = "recommended route Loading...";
+// 支付
+"payment has not been completed" = "payment has not been completed";
+"Please try later" = "Please try later";
+"payment details" = "payment details";
+"Order Error" = "Order Error";
+"No order" = "No order";
+"Under rental" = "Under rental";
+"NOTE：" = "NOTE：";
+"mileage fee" = "mileage fee";
+"time fee" = "time fee";
+"Daily rental" = "Daily rental";
+"Night rental" = "Night rental";
+"Additional fee" = "Additional fee";
+"Order verifying" = "Order verifying";
+"Miles" = "Miles";
+"KM" = "KM";
+"Time" = "Time";
+"No available coupon" = "No available coupon";
+"Alipay" = "Alipay";
+"WeChat Payment" = "WeChat Payment";
+"Total" = "Total";
+"Payment" = "Payment";
+"Actual payment：" = "Actual payment：";
+"Coupon" = "Coupon";
+"Balance" = "Balance";
+// button图片
+"Activate" = "Activate";
+"Authenticated" = "Authenticated";
+"Unautherized" = "Unautherized";
+"Please take the second sheet of your driving license" = "Please take the second sheet of your driving license";
+"Please take the main sheet of your driving license"= "Please take the main sheet of your driving license";
+"Please take your own picture" = "Please take your own picture with ID card";
+// 补充
+"Share" = "Share";
+"Agree" = "Agree";
+"h" = "h";
+"min" = "min";
+"始" = "";
+"终" = "";
+"show all" = "show all";
+"show some" = "show some";
+// 重设密码
+"reset password" = "reset password";
+"old password" = "old password";
+"please enter your old password" = "please enter your old password";
+"phone number" = "phone number";
+"please enter your phone number" = "please enter your phone number";
+"you will get  a massage after entering your phone number。"  = "you will get  a massage after entering your phone number。";
+"new password" = "new password";
+"confirm the new password" = "confirm the new password";
+"please enter verification code" = "please enter verification code";
+"please enter the password(6~12位)" = "please enter the password(6~12位)";
+"please enter the password again" = "please enter the password again";
+"reset password success" = "reset password success";
+"password is not consistent for twice input" = "password is not consistent for twice input";
+// 发票地址页
+"issue invoice" = "issue invoice";
+"submit" = "submit";
+"the title of invoice" = "the title of invoice";
+"the title of invoice tax no" = "Tax ID";
+"please enter the complete company name or your real name" = "please enter the complete company name or your real name";
+"name of addressee" = "name of addressee";
+"phone number of addressee" = "phone number of addressee";
+"locate area" = "locate area";
+"detail address information" = "detail address information";
+"enter detail address information" = "enter detail address information";
+"Beijing  Beijing  Chaoyang District" = "Beijing  Beijing  Chaoyang District";
+"Beijing" = "Beijing";
+"Chaoyang District" = "Chaoyang District";
+"please enter the title of invoice" = "please enter the title of invoice";
+"please enter the name of addressee" = "please enter the name of addressee";
+"please enter the phone number of addressee" = "please enter the phone number of addressee";
+"select location" = "select location";
+"no internet connection available" = "no internet connection available";
+"please select at least one invoice" = "please select at least one invoice";
+// 评价页
+"Appraise" = "Appraise";
+"Overall" = "Overall";
+"your suggest" = "your suggest";
+"Appraise success" = "Appraise success";
+
+"Drived" = "Drived";
+"Rented" = "Rented";
+"minimum amount for invoice" = "minimum amount for invoice";
+// url
+"joymove/htm/yongHuXieYi.html" = "joymove/htm/en/yongHuXieYi.html";
+"joymove/htm/changJianWenTi.html" = "joymove/htm/en/changJianWenTi.html";
+"joymove/htm/faLvJieDu.html" = "joymove/htm/en/faLvJieDu.html";
+"joymove/htm/Pricing.html" = "joymove/htm/en/Pricing.html" ;
+"joymove/htm/jiFenShuoMing.html" = "joymove/htm/en/jiFenShuoMing.html";
+"joymove/htm/pingTaiGuiZe.html" = "joymove/htm/en/pingTaiGuiZe.html";
+"joymove/htm/weiZhangChuLi.html" = "joymove/htm/en/weiZhangChuLi.html";
+// 增加
+"Agree to enjoy the journey!" = "Agree to enjoy the journey!";
+// 微信登陆
+"验证码" = "Verification code";
+"绑定手机号" = "Bound phone number";
+"请输入手机号" = "Please enter your phone number";
+"请输验证码" = "Please enter your Verification code";
+"绑定" = "Binding";
+"微信登录" = "Login with wechat";
+"加载失败..." = "Loading failed";
+"验证码已发送..." = "Verification code has been sent";
+"绑定失败..." = "Binding failed";
+"绑定成功" = "Binding success";

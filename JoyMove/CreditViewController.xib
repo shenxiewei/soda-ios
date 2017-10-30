@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CreditViewController">
+            <connections>
+                <outlet property="convertBtn" destination="o2L-R6-fG0" id="hVX-JK-VMN"/>
+                <outlet property="convertRule" destination="9H2-Zy-Nmi" id="afL-I1-itI"/>
+                <outlet property="creditNumber" destination="UOE-K8-mCC" id="09t-iR-USi"/>
+                <outlet property="lodaing" destination="gfj-kI-5ai" id="EcV-NF-ZX6"/>
+                <outlet property="myCredit" destination="ceq-6j-aat" id="f4E-Yt-Yxf"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="creditCircle.png" translatesAutoresizingMaskIntoConstraints="NO" id="t3r-G7-ObB">
+                    <rect key="frame" x="125" y="105" width="125" height="125"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="125" id="8R7-Ge-d7e"/>
+                        <constraint firstAttribute="width" constant="125" id="RDu-Zd-RKc"/>
+                    </constraints>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9H2-Zy-Nmi">
+                    <rect key="frame" x="150" y="625" width="75" height="15"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="75" id="orr-M2-NdY"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="1" maxX="5" maxY="0.0"/>
+                    <state key="normal" title="积分规则" image="creditQ.png">
+                        <color key="titleColor" red="0.78431372549019607" green="0.78431372549019607" blue="0.78431372549019607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="777" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UOE-K8-mCC">
+                    <rect key="frame" x="132" y="145" width="110" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="Cly-12-bDj"/>
+                        <constraint firstAttribute="width" constant="110" id="HIF-lK-DFC"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="31"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="我的积分" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ceq-6j-aat">
+                    <rect key="frame" x="125" y="177" width="125" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="HWJ-ZS-Qoj"/>
+                        <constraint firstAttribute="width" constant="125" id="aCD-8F-UvT"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="gfj-kI-5ai">
+                    <rect key="frame" x="177" y="150" width="20" height="20"/>
+                </activityIndicatorView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="o2L-R6-fG0">
+                    <rect key="frame" x="30" y="307" width="315" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="23G-qu-7F2"/>
+                        <constraint firstAttribute="width" constant="316" id="YRJ-nP-OO8"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <state key="normal" title="兑换" backgroundImage="creditBar.png">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="YRJ-nP-OO8"/>
+                        </mask>
+                    </variation>
+                </button>
+            </subviews>
+            <constraints>
+                <constraint firstItem="gfj-kI-5ai" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="0gU-8u-j9l"/>
+                <constraint firstAttribute="trailing" secondItem="o2L-R6-fG0" secondAttribute="trailing" constant="30" id="3pc-8l-bfE"/>
+                <constraint firstItem="t3r-G7-ObB" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="91v-bL-oKM"/>
+                <constraint firstItem="o2L-R6-fG0" firstAttribute="top" secondItem="ceq-6j-aat" secondAttribute="bottom" constant="110" id="H2s-Om-gEB"/>
+                <constraint firstItem="UOE-K8-mCC" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="145" id="Pg0-IZ-Je9"/>
+                <constraint firstItem="o2L-R6-fG0" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="30" id="Qcr-02-vuP"/>
+                <constraint firstItem="gfj-kI-5ai" firstAttribute="centerY" secondItem="UOE-K8-mCC" secondAttribute="centerY" id="Tbc-QX-80r"/>
+                <constraint firstItem="o2L-R6-fG0" firstAttribute="top" secondItem="t3r-G7-ObB" secondAttribute="bottom" constant="77" id="X80-aU-qd2"/>
+                <constraint firstAttribute="bottom" secondItem="9H2-Zy-Nmi" secondAttribute="bottom" constant="27" id="c9L-pq-FLt"/>
+                <constraint firstItem="UOE-K8-mCC" firstAttribute="centerX" secondItem="t3r-G7-ObB" secondAttribute="centerX" id="fPi-ER-S2w"/>
+                <constraint firstItem="ceq-6j-aat" firstAttribute="trailing" secondItem="t3r-G7-ObB" secondAttribute="trailing" id="kB7-fl-IaZ"/>
+                <constraint firstItem="t3r-G7-ObB" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="105" id="mWY-pS-8H3"/>
+                <constraint firstItem="9H2-Zy-Nmi" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="vfc-mK-TlO"/>
+                <constraint firstItem="o2L-R6-fG0" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="vk3-4F-aL9"/>
+            </constraints>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="vk3-4F-aL9"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="549.5" y="318.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="creditBar.png" width="316" height="40"/>
+        <image name="creditCircle.png" width="125" height="125"/>
+        <image name="creditQ.png" width="10" height="10"/>
+    </resources>
+</document>
